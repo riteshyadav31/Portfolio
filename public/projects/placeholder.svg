@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#111113"/>
+  <circle cx="800" cy="500" r="180" fill="#27272a"/>
+  <text x="800" y="520" fill="#a1a1aa" text-anchor="middle" font-family="Arial" font-size="42">Project Preview</text>
+</svg>
