@@ -49,11 +49,43 @@ export const projects = [
     live: "https://riteshyadav31.github.io/Campus-connect-/",
     featured: false,
   },
+  {
+  id: 5,
+  title: "Billing Bucket",
+  description: "A lightweight offline bill and invoice generator featuring customizable templates, GST and non-GST billing, automatic calculations, PDF export, and locally saved bill history.",
+  image: "/projects/billing-bucket.png",
+  category: "Web Development",
+  tech: ["React", "JavaScript", "HTML", "CSS", "SQLite"],
+  github: "https://github.com/riteshyadav31/Billing-Bucket",
+  live: "https://billingbucket.netlify.app/",
+  featured: false,
+},
+{
+  id: 6,
+  title: "Batlaiye",
+  description: "An anonymous real-time chat application that lets users connect and communicate without revealing their identity. Built with a focus on simplicity, privacy, and instant messaging without persistent database storage.",
+  image: "/projects/batlaiye.png",
+  category: "Web Development",
+  tech: [
+    "React",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "WebRTC",
+    "WebSocket",
+    "Socket.IO",
+    "Node.js"
+  ],
+  github: "https://github.com/riteshyadav31/Batlaiye",
+  live: "https://batlaiye-1.onrender.com/",
+  featured: false,
+},
 ];
 
 // Example future project:
 // {
-//   id: 5,
+//   id: 7,
 //   title: "My New Project",
 //   description: "Short project description...",
 //   image: "/projects/my-project.png",
